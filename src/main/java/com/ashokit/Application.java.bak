@@ -14,5 +14,8 @@ public class Application {
 		//changes related to feature-200
 		int b=20
 	}
+		public void loadToCache(){
+			System.out.println();
+		}
 
 }

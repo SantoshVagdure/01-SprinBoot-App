@@ -12,8 +12,15 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 		int a=10;
 		//changes related to feature-200
+
+		int c=20
+
 		int b=20
 			int b=30;
+
 	}
+		public void loadToCache(){
+			System.out.println();
+		}
 
 }
