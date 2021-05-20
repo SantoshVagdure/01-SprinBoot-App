@@ -13,6 +13,7 @@ public class Application {
 		int a=10;
 		//changes related to feature-200
 		int b=20
+			int b=30;
 	}
 
 }
